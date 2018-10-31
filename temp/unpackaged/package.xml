@@ -10,6 +10,7 @@
         <members>Expense__c.Client__c</members>
         <members>Expense__c.Date__c</members>
         <members>Expense__c.Reimbursed__c</members>
+        <members>Expense__c.ExpenseNumber__c</members>
         <name>CustomField</name>
     </types>
     <types>
