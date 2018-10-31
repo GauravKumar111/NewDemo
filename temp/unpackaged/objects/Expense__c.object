@@ -89,6 +89,17 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+     <fields>
+        <fullName>ExpenseNumber__c</fullName>
+        <externalId>false</externalId>
+        <label>ExpenseNumber</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
     <label>Expense</label>
     <nameField>
         <label>Expense Name</label>
