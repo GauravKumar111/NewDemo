@@ -1,0 +1,272 @@
+[
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996179115,
+            "changeTime": 1540996179115,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996179115,
+            "changeTime": 1540996179115,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996666581,
+            "changeTime": 1540996666581,
+            "contentHash": "29447785d6fffb1bcf789425fe3f0a54e897afdc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996179115,
+            "changeTime": 1540996179115,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996666568,
+            "changeTime": 1540996666568,
+            "contentHash": "3fa146a04d04c0cac2f3f72f6c50742200f927f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\classes\\AccountPagination.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\classes\\AccountPagination.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 882,
+            "modifiedTime": 1540996666568,
+            "changeTime": 1540996666568,
+            "contentHash": "9af9df87f7061560d82c1b220cf9c89520d2f83b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\classes\\AccountPagination.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\classes\\AccountPagination.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1540996666566,
+            "changeTime": 1540996666566,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996666572,
+            "changeTime": 1540996666572,
+            "contentHash": "e15ea744300e5f3377055aaf1ccbeb54606bbf43",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\layouts\\Expense__c-Expense Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2493,
+            "modifiedTime": 1540996666572,
+            "changeTime": 1540996666572,
+            "contentHash": "4ac379efff8c184612fe004b1a1efec73abcf30a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996666581,
+            "changeTime": 1540996666581,
+            "contentHash": "e81264004cbb92bbb92fc7862be7e9dbd66da477",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996666583,
+            "changeTime": 1540996666583,
+            "contentHash": "7e18244116415a1ea894bab3e1555215869b08f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\Expense__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2109,
+            "modifiedTime": 1540996666583,
+            "changeTime": 1540996666583,
+            "contentHash": "e9bc2d68663079f5338f6feb34f2958b06d54a4e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996666586,
+            "changeTime": 1540996666586,
+            "contentHash": "36e0f8ce8d3855ac18e6a491d7d01518f3bb1ae3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 386,
+            "modifiedTime": 1540996666584,
+            "changeTime": 1540996666584,
+            "contentHash": "472ae6f54d35237328ea05f13675341a86af5d7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Client__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 357,
+            "modifiedTime": 1540996666585,
+            "changeTime": 1540996666585,
+            "contentHash": "0a4ca2be5487be4a173586522bf41d4f049c5ed5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 302,
+            "modifiedTime": 1540996666586,
+            "changeTime": 1540996666586,
+            "contentHash": "3aa2f8a93fac4dc61cd0c5780578ea9791519b1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo\\force-app\\main\\default\\objects\\Expense__c\\fields\\Reimbursed__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1540996666586,
+            "changeTime": 1540996666586,
+            "contentHash": "9acbdb90d14377c84305cbc7f2dd0239dc76cd4d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\al2042\\NewDemo",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\al2042\\NewDemo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1540996247505,
+            "changeTime": 1540996247505,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
